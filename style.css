@@ -66,3 +66,9 @@ h3 {
     height: 11rem;
     margin: 1rem;
 }
+
+/* Delete chip */
+
+.delete-chip {
+    display: none;
+}
