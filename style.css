@@ -29,7 +29,6 @@ h3 {
     font-size: .9rem;
     background-color: rgb(231, 228, 228);
     font-weight: 600;
-    /* width: 4.5rem; */
     width: auto;
     height: 2rem;
     line-height: .8rem;
@@ -42,7 +41,6 @@ h3 {
 /* chips with icon */
 .chip-box--blue {
     background-color: rgb(133, 195, 216);
-
 }
 
 /* end to end chips */
